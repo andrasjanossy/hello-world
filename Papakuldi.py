@@ -1,2 +1,2 @@
 # hello-world
-print("puszi Papa")
+print("puszi megint Papa")
